@@ -1,6 +1,8 @@
-Counter App With ReatJS / Redux
+TodoApp With ReactJs / ContextAPI 
 
-First project by Redux Produce By ShayanZarbash
+RestAPI by Firebase
+
+UI With Bootstrap4
 
 install :
 npm i 
